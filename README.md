@@ -5,3 +5,5 @@ It uses net/http, gorilla mux, pq for PostgreSQL libraries.
 
 It stores the person object into a PostgreSQL database.
 
+#TODO: User Authentication
+
